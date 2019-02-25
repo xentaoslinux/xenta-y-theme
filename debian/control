@@ -1,0 +1,14 @@
+Source: xenta-y-theme
+Section: gnome
+Priority: optional
+Maintainer: Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/xentaoslinux/xenta-y-theme
+Vcs-Browser: https://github.com/xentaoslinux/xenta-y-theme.git
+
+Package: xenta-y-theme
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Paket Bawaan Theme Xenta Y untuk Xenta OS.
+ Paket bawaan Theme Xenta Y untuk Xenta OS edisi Xfce.

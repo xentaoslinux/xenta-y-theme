@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Xenta-Y
+Comment=Default Theme Xenta OS Xfce.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Xenta-Y
+MetacityTheme=Xenta-Y
+IconTheme=Xenta-X
+CursorTheme=DMZ-White
+ButtonLayout=menu:minimize,maximize,close
